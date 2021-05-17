@@ -1,0 +1,62 @@
+{
+    "best-products": [{
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Pedigree",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "Pedigree.jpg"
+        },
+        {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Whiskas",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "Whiskas.jpg"
+        },
+        {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Takari",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "Takarijpg"
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Pedigree",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "Pedigree.jpg"
+        },
+        {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Whiskas",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "Whiskas.jpg"
+        },
+        {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Takari",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "Takari.jpg"
+        },
+        {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "San Koi",
+            "harga": "150000",
+            "is_ready": "true",
+            "gambar": "San Koi.jpg"
+        }
+    ],
+    "keranjang": [],
+    "pesanan": []
+}
